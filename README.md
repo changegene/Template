@@ -8,7 +8,6 @@ Grammer of markdown
 # input of XXX?
 ## feature list of XX
 ## xx title
----
 
 # output of XXX?
 
@@ -18,4 +17,3 @@ Grammer of markdown
 
 layout: page 
 title: Software
----
