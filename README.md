@@ -6,8 +6,8 @@ Grammer of markdown
 - ![imag](website/xxx.png)
 
 # input of XXX?
-## feature list of XX
-## xx title
+## feature list of XXX
+## XXX title
 
 # output of XXX?
 
